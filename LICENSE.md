@@ -1,4 +1,4 @@
-# 
+# 极速 YNAB 插件 Mac OS版 | 高级 YNAB 插件 PC Windows版。集成 税务准备 和 PDF加密，跨平台性能最大化。
 
 
 
